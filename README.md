@@ -4,7 +4,7 @@ Consider a scenario where a customer of a company experiences a security issue w
 
 ## What was provided
 
-- **[Wireshark TCP/HTTP log](http://docs.google.com/spreadsheets/d/1enpRzrIao3J2Lp2tOI0hmu1Cu7D7CjLGhFAiTiR9J64/edit?gid=218501934#gid=218501934)**
+- Wireshark TCP/HTTP log
   
 ## Activity
 
